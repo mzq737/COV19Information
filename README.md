@@ -14,7 +14,7 @@ All data is stored in three tables.
 
 <img src="./table3.png" width='800px' alt ='mysql-db.png' />
 
-
-The folder contains two ECharts templates for drawing line charts.
+### web page
+The folder contains two ECharts templates for drawing line charts, a US map json file, word cloud library, and js file to fetch data from database.
 
 
