@@ -1,5 +1,15 @@
 # COVID-19-Tracker
 
-cov19dataCrawler.py is used to crawl data and save it to the ec2 MySQL database and it requires Chrome and ChromeDriver to be installed. The folder contains two ECharts templates for drawing line charts.
+### libraries and packages I used
+requests, re, json, pymysql, traceback, selenium.
+### cov19dataCrawler.py
+This file is used to crawl data and save it to the ec2 MySQL database and it requires Chrome and ChromeDriver to be installed. 
+All data is stored in three tables.
 
-In order to make it work, please install the package appearing in the .py file and create a MySQL database.
+
+
+
+
+The folder contains two ECharts templates for drawing line charts.
+
+
