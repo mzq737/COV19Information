@@ -8,11 +8,11 @@ All data is stored in three tables.
 
 <img src="./queries.png" width='400px' alt ='mysql-db.png' />
 
-<img src="./table1.png" width='400px' alt ='mysql-db.png' />
+<img src="./table1.png" width='800px' alt ='mysql-db.png' />
 
-<img src="./table2.png" width='400px' alt ='mysql-db.png' />
+<img src="./table2.png" width='800px' alt ='mysql-db.png' />
 
-<img src="./table3.png" width='400px' alt ='mysql-db.png' />
+<img src="./table3.png" width='800px' alt ='mysql-db.png' />
 
 
 The folder contains two ECharts templates for drawing line charts.
