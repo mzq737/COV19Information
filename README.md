@@ -14,7 +14,10 @@ All data is stored in three tables.
 
 <img src="./table3.png" width='800px' alt ='mysql-db.png' />
 
-### web page
-The folder contains two ECharts templates for drawing line charts, a US map json file, word cloud library, and js file to fetch data from database.
+### Front-End
+The folder contains two ECharts templates for drawing line charts, a US map json file, word cloud library, and js file to fetch data from database. Implemented NLTK extracted keywords from Google Trending Search table, displayed data with Apache Echarts.
+
+### Deployment
+Hosted on an Amazon EC2 instance with Nginx and Gunicorn as reverse proxy and load balancer.
 
 
